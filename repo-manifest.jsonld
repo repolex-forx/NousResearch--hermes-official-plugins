@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-official-plugins/commit/13b2c1c9c8204bf333df240b2aacf98c3e6250b7",
       "git:hexsha": "13b2c1c9c8204bf333df240b2aacf98c3e6250b7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
